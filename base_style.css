@@ -1,0 +1,32 @@
+html,body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background-size: cover;
+
+}
+
+html
+{
+	background:#9ab;
+}
+
+body
+{
+	background:repeating-radial-gradient(circle,rgba(255,255,255,0.1),rgba(255,255,255,0.15) 150px,rgba(255,255,255,0.15) 152px ,rgba(255,255,255,0.1) 153px);
+	font-family: arial;
+}
+
+#container
+{
+	
+	padding: 100px 10%;
+	
+}
+
+
+
+a{
+	text-decoration: none;
+}
